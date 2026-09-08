@@ -14,4 +14,4 @@ else:
 if t==t1:
     print("Yes,They are sme")
 else:
-    print("They are different")            
+    print("They are different") 
