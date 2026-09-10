@@ -1,5 +1,5 @@
-wap to input four numbers from the user and find the greatest number among them
-'''
+# wap to input four numbers from the user and find the greatest number among them
+
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 num3 = int(input("Enter third number: "))
